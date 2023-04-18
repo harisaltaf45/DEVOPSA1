@@ -1,4 +1,4 @@
-## TESTING PIPELINE FOR DEVOPS ASSIGNMENT
+## TESTING PIPELINE
 
 # Getting Started with Create React App
 
